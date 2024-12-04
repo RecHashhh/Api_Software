@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: secureapp-pod
+spec:
+  containers:
+  - name: secureapp-container
+    image: dawills2024/secureapp:latest  # Reemplaza con tu nombre de usuario y nombre de imagen
+    ports:
+    - containerPort: 5002  # El puerto de tu API dentro del contenedor
+  restartPolicy: Always  # Asegura que el pod se reinicie si falla

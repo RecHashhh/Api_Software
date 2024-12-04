@@ -1,0 +1,599 @@
+2024-10-09 17:07:15,073 - WARNING -  * Debugger is active!
+2024-10-09 17:07:15,090 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 17:09:40,185 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 17:09:40,186 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-10-09T22:09:40.186758'}
+2024-10-09 17:09:40,188 - INFO - 127.0.0.1 - - [09/Oct/2024 17:09:40] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 17:09:44,346 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-10-09 17:09:44,949 - INFO - Inicio de sesión exitoso: admin.
+2024-10-09 17:09:44,950 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 302
+2024-10-09 17:09:44,951 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 302, 'timestamp': '2024-10-09T22:09:44.951195'}
+2024-10-09 17:09:44,953 - INFO - 127.0.0.1 - - [09/Oct/2024 17:09:44] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-10-09 17:09:44,974 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 17:09:44,975 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/dashboard', 'status_code': 200, 'timestamp': '2024-10-09T22:09:44.975131'}
+2024-10-09 17:09:44,976 - INFO - 127.0.0.1 - - [09/Oct/2024 17:09:44] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 17:09:45,024 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 17:09:45,024 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/styles.css', 'status_code': 404, 'timestamp': '2024-10-09T22:09:45.024998'}
+2024-10-09 17:09:45,026 - INFO - 127.0.0.1 - - [09/Oct/2024 17:09:45] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 17:09:45,285 - INFO - User guest accessed http://127.0.0.1:5000/static/script.js with status 304
+2024-10-09 17:09:45,286 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/static/script.js', 'status_code': 304, 'timestamp': '2024-10-09T22:09:45.286302'}
+2024-10-09 17:09:45,288 - INFO - 127.0.0.1 - - [09/Oct/2024 17:09:45] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-09 17:09:48,580 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 17:09:48,582 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/styles.css', 'status_code': 404, 'timestamp': '2024-10-09T22:09:48.582551'}
+2024-10-09 17:09:48,584 - INFO - 127.0.0.1 - - [09/Oct/2024 17:09:48] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 17:10:49,126 - INFO - User guest accessed http://localhost:5000/register with status 401
+2024-10-09 17:10:49,127 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5000/register', 'status_code': 401, 'timestamp': '2024-10-09T22:10:49.127935'}
+2024-10-09 17:10:49,133 - INFO - 127.0.0.1 - - [09/Oct/2024 17:10:49] "[31m[1mPOST /register HTTP/1.1[0m" 401 -
+2024-10-09 17:11:57,293 - INFO - User guest accessed http://localhost:5000/users with status 404
+2024-10-09 17:11:57,294 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5000/users', 'status_code': 404, 'timestamp': '2024-10-09T22:11:57.294971'}
+2024-10-09 17:11:57,295 - INFO - 127.0.0.1 - - [09/Oct/2024 17:11:57] "[33mGET /users HTTP/1.1[0m" 404 -
+2024-10-09 17:13:12,513 - INFO - 127.0.0.1 - - [09/Oct/2024 17:13:12] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2024-10-09 17:13:35,722 - INFO - User guest accessed http://127.0.0.1:5000/users with status 404
+2024-10-09 17:13:35,723 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/users', 'status_code': 404, 'timestamp': '2024-10-09T22:13:35.723273'}
+2024-10-09 17:13:35,724 - INFO - 127.0.0.1 - - [09/Oct/2024 17:13:35] "[33mGET /users HTTP/1.1[0m" 404 -
+2024-10-09 17:14:23,777 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 17:14:29,173 - WARNING -  * Debugger is active!
+2024-10-09 17:14:29,188 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 17:14:36,545 - INFO - User guest accessed http://127.0.0.1:5000/users with status 401
+2024-10-09 17:14:36,547 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/users', 'status_code': 401, 'timestamp': '2024-10-09T22:14:36.546484'}
+2024-10-09 17:14:36,548 - INFO - 127.0.0.1 - - [09/Oct/2024 17:14:36] "[31m[1mGET /users HTTP/1.1[0m" 401 -
+2024-10-09 17:19:38,776 - INFO - 127.0.0.1 - - [09/Oct/2024 17:19:38] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2024-10-09 17:20:10,166 - INFO - 127.0.0.1 - - [09/Oct/2024 17:20:10] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2024-10-09 17:20:22,758 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 17:20:22,760 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/dashboard', 'status_code': 200, 'timestamp': '2024-10-09T22:20:22.759778'}
+2024-10-09 17:20:22,761 - INFO - 127.0.0.1 - - [09/Oct/2024 17:20:22] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 17:20:22,802 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 17:20:22,804 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/styles.css', 'status_code': 404, 'timestamp': '2024-10-09T22:20:22.804683'}
+2024-10-09 17:20:22,806 - INFO - 127.0.0.1 - - [09/Oct/2024 17:20:22] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 17:20:23,021 - INFO - User guest accessed http://127.0.0.1:5000/static/script.js with status 304
+2024-10-09 17:20:23,022 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/static/script.js', 'status_code': 304, 'timestamp': '2024-10-09T22:20:23.022801'}
+2024-10-09 17:20:23,023 - INFO - 127.0.0.1 - - [09/Oct/2024 17:20:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-09 17:20:28,205 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 17:20:28,207 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/styles.css', 'status_code': 404, 'timestamp': '2024-10-09T22:20:28.207205'}
+2024-10-09 17:20:28,209 - INFO - 127.0.0.1 - - [09/Oct/2024 17:20:28] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 17:20:49,717 - INFO - 127.0.0.1 - - [09/Oct/2024 17:20:49] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2024-10-09 17:23:32,441 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 17:23:35,715 - WARNING -  * Debugger is active!
+2024-10-09 17:23:35,731 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 17:23:47,025 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 17:25:54,253 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.23.196.8:5000
+2024-10-09 17:25:54,254 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-09 17:25:54,257 - INFO -  * Restarting with stat
+2024-10-09 17:25:56,653 - WARNING -  * Debugger is active!
+2024-10-09 17:25:56,668 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 17:26:02,531 - INFO - 127.0.0.1 - - [09/Oct/2024 17:26:02] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2024-10-09 17:26:11,468 - INFO - 127.0.0.1 - - [09/Oct/2024 17:26:11] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2024-10-09 17:26:15,834 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 17:26:16,026 - INFO -  * Restarting with stat
+2024-10-09 17:26:18,692 - WARNING -  * Debugger is active!
+2024-10-09 17:26:18,704 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 17:26:24,488 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 17:26:24,489 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/dashboard', 'status_code': 200, 'timestamp': '2024-10-09T22:26:24.489283'}
+2024-10-09 17:26:24,491 - INFO - 127.0.0.1 - - [09/Oct/2024 17:26:24] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 17:26:24,552 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 17:26:24,553 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/styles.css', 'status_code': 404, 'timestamp': '2024-10-09T22:26:24.553112'}
+2024-10-09 17:26:24,555 - INFO - 127.0.0.1 - - [09/Oct/2024 17:26:24] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 17:26:24,857 - INFO - User guest accessed http://127.0.0.1:5000/static/script.js with status 304
+2024-10-09 17:26:24,859 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/static/script.js', 'status_code': 304, 'timestamp': '2024-10-09T22:26:24.859742'}
+2024-10-09 17:26:24,861 - INFO - 127.0.0.1 - - [09/Oct/2024 17:26:24] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-09 17:26:27,470 - INFO - User guest accessed http://127.0.0.1:5000/users with status 200
+2024-10-09 17:26:27,471 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/users', 'status_code': 200, 'timestamp': '2024-10-09T22:26:27.471085'}
+2024-10-09 17:26:27,472 - INFO - 127.0.0.1 - - [09/Oct/2024 17:26:27] "GET /users HTTP/1.1" 200 -
+2024-10-09 17:27:34,943 - INFO - User guest accessed http://127.0.0.1:5000/users with status 405
+2024-10-09 17:27:34,944 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/users', 'status_code': 405, 'timestamp': '2024-10-09T22:27:34.944839'}
+2024-10-09 17:27:34,945 - INFO - 127.0.0.1 - - [09/Oct/2024 17:27:34] "[31m[1mPOST /users HTTP/1.1[0m" 405 -
+2024-10-09 17:27:59,704 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 17:27:59,928 - INFO -  * Restarting with stat
+2024-10-09 17:28:12,957 - WARNING -  * Debugger is active!
+2024-10-09 17:28:13,006 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 17:29:56,138 - INFO - User guest accessed http://127.0.0.1:5000/users with status 200
+2024-10-09 17:29:56,140 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/users', 'status_code': 200, 'timestamp': '2024-10-09T22:29:56.140872'}
+2024-10-09 17:29:56,147 - INFO - 127.0.0.1 - - [09/Oct/2024 17:29:56] "GET /users HTTP/1.1" 200 -
+2024-10-09 17:30:05,135 - INFO - User guest accessed http://127.0.0.1:5000/users with status 200
+2024-10-09 17:30:05,137 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/users', 'status_code': 200, 'timestamp': '2024-10-09T22:30:05.137725'}
+2024-10-09 17:30:05,139 - INFO - 127.0.0.1 - - [09/Oct/2024 17:30:05] "GET /users HTTP/1.1" 200 -
+2024-10-09 17:30:08,527 - INFO - User guest accessed http://127.0.0.1:5000/users with status 200
+2024-10-09 17:30:08,528 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/users', 'status_code': 200, 'timestamp': '2024-10-09T22:30:08.528474'}
+2024-10-09 17:30:08,530 - INFO - 127.0.0.1 - - [09/Oct/2024 17:30:08] "GET /users HTTP/1.1" 200 -
+2024-10-09 17:30:11,943 - INFO - User guest accessed http://127.0.0.1:5000/users with status 200
+2024-10-09 17:30:11,945 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/users', 'status_code': 200, 'timestamp': '2024-10-09T22:30:11.945950'}
+2024-10-09 17:30:11,946 - INFO - 127.0.0.1 - - [09/Oct/2024 17:30:11] "GET /users HTTP/1.1" 200 -
+2024-10-09 17:30:15,198 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: get_all_users
+2024-10-09 17:30:15,199 - INFO - User guest accessed http://127.0.0.1:5000/users with status 429
+2024-10-09 17:30:15,202 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/users', 'status_code': 429, 'timestamp': '2024-10-09T22:30:15.202565'}
+2024-10-09 17:30:15,207 - INFO - 127.0.0.1 - - [09/Oct/2024 17:30:15] "[31m[1mGET /users HTTP/1.1[0m" 429 -
+2024-10-09 17:30:32,492 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 17:30:32,494 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-10-09T22:30:32.494860'}
+2024-10-09 17:30:32,495 - INFO - 127.0.0.1 - - [09/Oct/2024 17:30:32] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 17:30:33,516 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-10-09 17:30:33,517 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/', 'status_code': 200, 'timestamp': '2024-10-09T22:30:33.517236'}
+2024-10-09 17:30:33,519 - INFO - 127.0.0.1 - - [09/Oct/2024 17:30:33] "GET / HTTP/1.1" 200 -
+2024-10-09 17:30:40,941 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 17:30:40,943 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-10-09T22:30:40.942664'}
+2024-10-09 17:30:40,948 - INFO - 127.0.0.1 - - [09/Oct/2024 17:30:40] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 17:30:48,308 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-10-09 17:30:48,783 - INFO - Inicio de sesión exitoso: admin.
+2024-10-09 17:30:48,783 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 302
+2024-10-09 17:30:48,784 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 302, 'timestamp': '2024-10-09T22:30:48.784850'}
+2024-10-09 17:30:48,786 - INFO - 127.0.0.1 - - [09/Oct/2024 17:30:48] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-10-09 17:30:48,807 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 17:30:48,808 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/dashboard', 'status_code': 200, 'timestamp': '2024-10-09T22:30:48.808730'}
+2024-10-09 17:30:48,809 - INFO - 127.0.0.1 - - [09/Oct/2024 17:30:48] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 17:30:48,848 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 17:30:48,850 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/styles.css', 'status_code': 404, 'timestamp': '2024-10-09T22:30:48.850407'}
+2024-10-09 17:30:48,851 - INFO - 127.0.0.1 - - [09/Oct/2024 17:30:48] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 17:30:49,126 - INFO - User guest accessed http://127.0.0.1:5000/static/script.js with status 304
+2024-10-09 17:30:49,127 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/static/script.js', 'status_code': 304, 'timestamp': '2024-10-09T22:30:49.127588'}
+2024-10-09 17:30:49,128 - INFO - 127.0.0.1 - - [09/Oct/2024 17:30:49] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-09 17:31:07,586 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 17:31:07,588 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-10-09T22:31:07.588066'}
+2024-10-09 17:31:07,589 - INFO - 127.0.0.1 - - [09/Oct/2024 17:31:07] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 17:38:24,219 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 17:38:24,232 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login', 'status_code': 200, 'timestamp': '2024-10-09T22:38:24.232374'}
+2024-10-09 17:38:24,234 - INFO - 127.0.0.1 - - [09/Oct/2024 17:38:24] "GET /login HTTP/1.1" 200 -
+2024-10-09 17:38:31,847 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 17:38:31,848 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/dashboard', 'status_code': 200, 'timestamp': '2024-10-09T22:38:31.848823'}
+2024-10-09 17:38:31,851 - INFO - 127.0.0.1 - - [09/Oct/2024 17:38:31] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 17:38:31,940 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 17:38:31,942 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/styles.css', 'status_code': 404, 'timestamp': '2024-10-09T22:38:31.941575'}
+2024-10-09 17:38:31,943 - INFO - 127.0.0.1 - - [09/Oct/2024 17:38:31] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 17:38:31,978 - INFO - User guest accessed http://127.0.0.1:5000/static/script.js with status 304
+2024-10-09 17:38:31,979 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/static/script.js', 'status_code': 304, 'timestamp': '2024-10-09T22:38:31.979684'}
+2024-10-09 17:38:31,981 - INFO - 127.0.0.1 - - [09/Oct/2024 17:38:31] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-09 17:38:36,528 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 17:38:36,530 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-10-09T22:38:36.530571'}
+2024-10-09 17:38:36,534 - INFO - 127.0.0.1 - - [09/Oct/2024 17:38:36] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 17:38:41,487 - INFO - Usuario encontrado: user. Intentando verificar contraseña.
+2024-10-09 17:38:42,588 - INFO - Inicio de sesión exitoso: user.
+2024-10-09 17:38:42,589 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 302
+2024-10-09 17:38:42,590 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 302, 'timestamp': '2024-10-09T22:38:42.590392'}
+2024-10-09 17:38:42,593 - INFO - 127.0.0.1 - - [09/Oct/2024 17:38:42] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-10-09 17:38:42,605 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 17:38:42,607 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/dashboard', 'status_code': 200, 'timestamp': '2024-10-09T22:38:42.607341'}
+2024-10-09 17:38:42,608 - INFO - 127.0.0.1 - - [09/Oct/2024 17:38:42] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 17:38:42,649 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 17:38:42,652 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/styles.css', 'status_code': 404, 'timestamp': '2024-10-09T22:38:42.652944'}
+2024-10-09 17:38:42,654 - INFO - 127.0.0.1 - - [09/Oct/2024 17:38:42] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 17:38:42,682 - INFO - User guest accessed http://127.0.0.1:5000/static/script.js with status 304
+2024-10-09 17:38:42,686 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/static/script.js', 'status_code': 304, 'timestamp': '2024-10-09T22:38:42.686590'}
+2024-10-09 17:38:42,689 - INFO - 127.0.0.1 - - [09/Oct/2024 17:38:42] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-09 17:42:11,363 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 17:42:11,364 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-10-09T22:42:11.364546'}
+2024-10-09 17:42:11,365 - INFO - 127.0.0.1 - - [09/Oct/2024 17:42:11] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 17:42:19,280 - INFO - Usuario encontrado: user. Intentando verificar contraseña.
+2024-10-09 17:42:20,280 - INFO - Inicio de sesión exitoso: user.
+2024-10-09 17:42:20,281 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 302
+2024-10-09 17:42:20,281 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 302, 'timestamp': '2024-10-09T22:42:20.281689'}
+2024-10-09 17:42:20,285 - INFO - 127.0.0.1 - - [09/Oct/2024 17:42:20] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-10-09 17:42:20,308 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 17:42:20,309 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/dashboard', 'status_code': 200, 'timestamp': '2024-10-09T22:42:20.309615'}
+2024-10-09 17:42:20,310 - INFO - 127.0.0.1 - - [09/Oct/2024 17:42:20] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 17:42:20,349 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 17:42:20,352 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/styles.css', 'status_code': 404, 'timestamp': '2024-10-09T22:42:20.352500'}
+2024-10-09 17:42:20,353 - INFO - 127.0.0.1 - - [09/Oct/2024 17:42:20] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 17:42:20,358 - INFO - User guest accessed http://127.0.0.1:5000/static/script.js with status 304
+2024-10-09 17:42:20,360 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/static/script.js', 'status_code': 304, 'timestamp': '2024-10-09T22:42:20.359482'}
+2024-10-09 17:42:20,375 - INFO - 127.0.0.1 - - [09/Oct/2024 17:42:20] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-09 17:42:25,491 - INFO - User guest accessed http://127.0.0.1:5000/dashboard/bitacora with status 404
+2024-10-09 17:42:25,492 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/dashboard/bitacora', 'status_code': 404, 'timestamp': '2024-10-09T22:42:25.492833'}
+2024-10-09 17:42:25,495 - INFO - 127.0.0.1 - - [09/Oct/2024 17:42:25] "[33mGET /dashboard/bitacora HTTP/1.1[0m" 404 -
+2024-10-09 17:42:36,893 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: get_all_users
+2024-10-09 17:42:37,050 - INFO - 127.0.0.1 - - [09/Oct/2024 17:42:37] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2024-11-18 11:56:43,320 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.23.196.180:5000
+2024-11-18 11:56:43,320 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-18 11:56:43,325 - INFO -  * Restarting with stat
+2024-11-18 11:56:46,033 - WARNING -  * Debugger is active!
+2024-11-18 11:56:46,047 - INFO -  * Debugger PIN: 496-851-570
+2024-11-18 11:57:20,323 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-11-18 11:57:20,324 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login', 'status_code': 200, 'timestamp': '2024-11-18T16:57:20.324747'}
+2024-11-18 11:57:20,325 - INFO - 127.0.0.1 - - [18/Nov/2024 11:57:20] "GET /login HTTP/1.1" 200 -
+2024-11-18 11:57:21,098 - INFO - User guest accessed http://127.0.0.1:5000/favicon.ico with status 404
+2024-11-18 11:57:21,099 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/favicon.ico', 'status_code': 404, 'timestamp': '2024-11-18T16:57:21.099750'}
+2024-11-18 11:57:21,100 - INFO - 127.0.0.1 - - [18/Nov/2024 11:57:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-18 11:57:21,291 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-11-18 11:57:21,292 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login', 'status_code': 200, 'timestamp': '2024-11-18T16:57:21.292750'}
+2024-11-18 11:57:21,294 - INFO - 127.0.0.1 - - [18/Nov/2024 11:57:21] "GET /login HTTP/1.1" 200 -
+2024-11-18 11:57:26,647 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-11-18 11:57:26,647 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login', 'status_code': 200, 'timestamp': '2024-11-18T16:57:26.647853'}
+2024-11-18 11:57:26,649 - INFO - 127.0.0.1 - - [18/Nov/2024 11:57:26] "GET /login HTTP/1.1" 200 -
+2024-11-18 11:57:27,040 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-11-18 11:57:27,041 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login', 'status_code': 200, 'timestamp': '2024-11-18T16:57:27.041827'}
+2024-11-18 11:57:27,043 - INFO - 127.0.0.1 - - [18/Nov/2024 11:57:27] "GET /login HTTP/1.1" 200 -
+2024-11-18 11:58:06,210 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-11-18 11:58:06,211 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login', 'status_code': 200, 'timestamp': '2024-11-18T16:58:06.211266'}
+2024-11-18 11:58:06,212 - INFO - 127.0.0.1 - - [18/Nov/2024 11:58:06] "GET /login HTTP/1.1" 200 -
+2024-11-18 11:58:07,723 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-11-18 11:58:07,723 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login', 'status_code': 200, 'timestamp': '2024-11-18T16:58:07.723811'}
+2024-11-18 11:58:07,725 - INFO - 127.0.0.1 - - [18/Nov/2024 11:58:07] "GET /login HTTP/1.1" 200 -
+2024-11-18 11:58:29,924 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-11-18 11:58:30,220 - INFO -  * Restarting with stat
+2024-11-18 11:58:33,542 - WARNING -  * Debugger is active!
+2024-11-18 11:58:33,574 - INFO -  * Debugger PIN: 496-851-570
+2024-11-18 11:59:13,744 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-11-18 11:59:13,747 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login', 'status_code': 200, 'timestamp': '2024-11-18T16:59:13.747855'}
+2024-11-18 11:59:13,749 - INFO - 127.0.0.1 - - [18/Nov/2024 11:59:13] "GET /login HTTP/1.1" 200 -
+2024-11-18 11:59:14,681 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-11-18 11:59:14,682 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login', 'status_code': 200, 'timestamp': '2024-11-18T16:59:14.682720'}
+2024-11-18 11:59:14,683 - INFO - 127.0.0.1 - - [18/Nov/2024 11:59:14] "GET /login HTTP/1.1" 200 -
+2024-11-18 11:59:16,196 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-11-18 11:59:16,198 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/', 'status_code': 200, 'timestamp': '2024-11-18T16:59:16.197406'}
+2024-11-18 11:59:16,199 - INFO - 127.0.0.1 - - [18/Nov/2024 11:59:16] "GET / HTTP/1.1" 200 -
+2024-11-18 11:59:16,514 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-11-18 11:59:16,515 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/', 'status_code': 200, 'timestamp': '2024-11-18T16:59:16.515059'}
+2024-11-18 11:59:16,517 - INFO - 127.0.0.1 - - [18/Nov/2024 11:59:16] "GET / HTTP/1.1" 200 -
+2024-11-18 11:59:18,939 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 11:59:18,942 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T16:59:18.941189'}
+2024-11-18 11:59:18,944 - INFO - 127.0.0.1 - - [18/Nov/2024 11:59:18] "GET /login1 HTTP/1.1" 200 -
+2024-11-18 11:59:19,141 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 11:59:19,142 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T16:59:19.141190'}
+2024-11-18 11:59:19,145 - INFO - 127.0.0.1 - - [18/Nov/2024 11:59:19] "GET /login1 HTTP/1.1" 200 -
+2024-11-18 11:59:25,184 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-11-18 11:59:25,185 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/', 'status_code': 200, 'timestamp': '2024-11-18T16:59:25.185754'}
+2024-11-18 11:59:25,186 - INFO - 127.0.0.1 - - [18/Nov/2024 11:59:25] "GET / HTTP/1.1" 200 -
+2024-11-18 11:59:25,966 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 11:59:25,967 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T16:59:25.967268'}
+2024-11-18 11:59:25,969 - INFO - 127.0.0.1 - - [18/Nov/2024 11:59:25] "GET /login1 HTTP/1.1" 200 -
+2024-11-18 11:59:27,177 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-11-18 11:59:27,180 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/', 'status_code': 200, 'timestamp': '2024-11-18T16:59:27.179434'}
+2024-11-18 11:59:27,182 - INFO - 127.0.0.1 - - [18/Nov/2024 11:59:27] "GET / HTTP/1.1" 200 -
+2024-11-18 11:59:27,803 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 11:59:27,803 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T16:59:27.803194'}
+2024-11-18 11:59:27,804 - INFO - 127.0.0.1 - - [18/Nov/2024 11:59:27] "GET /login1 HTTP/1.1" 200 -
+2024-11-18 11:59:28,063 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 11:59:28,064 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T16:59:28.064194'}
+2024-11-18 11:59:28,067 - INFO - 127.0.0.1 - - [18/Nov/2024 11:59:28] "GET /login1 HTTP/1.1" 200 -
+2024-11-18 11:59:30,536 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-11-18 11:59:30,537 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/', 'status_code': 200, 'timestamp': '2024-11-18T16:59:30.537208'}
+2024-11-18 11:59:30,539 - INFO - 127.0.0.1 - - [18/Nov/2024 11:59:30] "GET / HTTP/1.1" 200 -
+2024-11-18 11:59:38,526 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 11:59:38,530 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T16:59:38.530961'}
+2024-11-18 11:59:38,532 - INFO - 127.0.0.1 - - [18/Nov/2024 11:59:38] "GET /login1 HTTP/1.1" 200 -
+2024-11-18 11:59:38,766 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 11:59:38,768 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T16:59:38.768962'}
+2024-11-18 11:59:38,770 - INFO - 127.0.0.1 - - [18/Nov/2024 11:59:38] "GET /login1 HTTP/1.1" 200 -
+2024-11-18 12:00:01,454 - WARNING - Intento de inicio de sesión fallido para: admin@example.
+2024-11-18 12:00:01,456 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 12:00:01,457 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T17:00:01.457156'}
+2024-11-18 12:00:01,463 - INFO - 127.0.0.1 - - [18/Nov/2024 12:00:01] "POST /login1 HTTP/1.1" 200 -
+2024-11-18 12:00:01,709 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 12:00:01,711 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T17:00:01.711693'}
+2024-11-18 12:00:01,713 - INFO - 127.0.0.1 - - [18/Nov/2024 12:00:01] "GET /login1 HTTP/1.1" 200 -
+2024-11-18 12:00:26,368 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-11-18 12:00:27,104 - INFO - Inicio de sesión exitoso: admin.
+2024-11-18 12:00:27,105 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 302
+2024-11-18 12:00:27,106 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 302, 'timestamp': '2024-11-18T17:00:27.106663'}
+2024-11-18 12:00:27,110 - INFO - 127.0.0.1 - - [18/Nov/2024 12:00:27] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-11-18 12:00:27,187 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-11-18 12:00:27,188 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/dashboard', 'status_code': 200, 'timestamp': '2024-11-18T17:00:27.188668'}
+2024-11-18 12:00:27,194 - INFO - 127.0.0.1 - - [18/Nov/2024 12:00:27] "GET /dashboard HTTP/1.1" 200 -
+2024-11-18 12:00:27,312 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-11-18 12:00:27,314 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/styles.css', 'status_code': 404, 'timestamp': '2024-11-18T17:00:27.313665'}
+2024-11-18 12:00:27,315 - INFO - 127.0.0.1 - - [18/Nov/2024 12:00:27] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-11-18 12:00:27,681 - INFO - User guest accessed http://127.0.0.1:5000/static/script.js with status 200
+2024-11-18 12:00:27,682 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/static/script.js', 'status_code': 200, 'timestamp': '2024-11-18T17:00:27.682104'}
+2024-11-18 12:00:27,684 - INFO - 127.0.0.1 - - [18/Nov/2024 12:00:27] "GET /static/script.js HTTP/1.1" 200 -
+2024-11-18 12:00:27,753 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-11-18 12:00:27,754 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/dashboard', 'status_code': 200, 'timestamp': '2024-11-18T17:00:27.754727'}
+2024-11-18 12:00:27,756 - INFO - 127.0.0.1 - - [18/Nov/2024 12:00:27] "GET /dashboard HTTP/1.1" 200 -
+2024-11-18 12:00:38,973 - WARNING - Intento de inicio de sesión fallido para: admin@example.
+2024-11-18 12:00:38,980 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 12:00:38,981 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T17:00:38.981947'}
+2024-11-18 12:00:38,983 - INFO - 127.0.0.1 - - [18/Nov/2024 12:00:38] "POST /login1 HTTP/1.1" 200 -
+2024-11-18 12:00:39,618 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 12:00:39,619 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T17:00:39.619458'}
+2024-11-18 12:00:39,621 - INFO - 127.0.0.1 - - [18/Nov/2024 12:00:39] "GET /login1 HTTP/1.1" 200 -
+2024-11-18 15:32:36,773 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 15:32:36,775 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T20:32:36.775304'}
+2024-11-18 15:32:36,786 - INFO - 127.0.0.1 - - [18/Nov/2024 15:32:36] "GET /login1 HTTP/1.1" 200 -
+2024-11-18 15:32:38,299 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-11-18 15:32:38,308 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/', 'status_code': 200, 'timestamp': '2024-11-18T20:32:38.308224'}
+2024-11-18 15:32:38,310 - INFO - 127.0.0.1 - - [18/Nov/2024 15:32:38] "GET / HTTP/1.1" 200 -
+2024-11-18 15:33:00,585 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-11-18 15:33:00,587 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/', 'status_code': 200, 'timestamp': '2024-11-18T20:33:00.587183'}
+2024-11-18 15:33:00,588 - INFO - 127.0.0.1 - - [18/Nov/2024 15:33:00] "GET / HTTP/1.1" 200 -
+2024-11-18 15:57:41,031 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 15:57:41,044 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T20:57:41.044585'}
+2024-11-18 15:57:41,077 - INFO - 127.0.0.1 - - [18/Nov/2024 15:57:41] "GET /login1 HTTP/1.1" 200 -
+2024-11-18 15:57:42,602 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 15:57:42,602 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T20:57:42.602969'}
+2024-11-18 15:57:42,609 - INFO - 127.0.0.1 - - [18/Nov/2024 15:57:42] "GET /login1 HTTP/1.1" 200 -
+2024-11-18 15:58:01,025 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-11-18 15:58:02,009 - INFO - Inicio de sesión exitoso: admin.
+2024-11-18 15:58:02,014 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 302
+2024-11-18 15:58:02,015 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 302, 'timestamp': '2024-11-18T20:58:02.015369'}
+2024-11-18 15:58:02,024 - INFO - 127.0.0.1 - - [18/Nov/2024 15:58:02] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-11-18 15:58:02,126 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-11-18 15:58:02,128 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/dashboard', 'status_code': 200, 'timestamp': '2024-11-18T20:58:02.128605'}
+2024-11-18 15:58:02,129 - INFO - 127.0.0.1 - - [18/Nov/2024 15:58:02] "GET /dashboard HTTP/1.1" 200 -
+2024-11-18 15:58:02,276 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-11-18 15:58:02,278 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/styles.css', 'status_code': 404, 'timestamp': '2024-11-18T20:58:02.278606'}
+2024-11-18 15:58:02,280 - INFO - 127.0.0.1 - - [18/Nov/2024 15:58:02] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-11-18 15:58:02,405 - INFO - User guest accessed http://127.0.0.1:5000/static/script.js with status 304
+2024-11-18 15:58:02,406 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/static/script.js', 'status_code': 304, 'timestamp': '2024-11-18T20:58:02.406665'}
+2024-11-18 15:58:02,410 - INFO - 127.0.0.1 - - [18/Nov/2024 15:58:02] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-11-18 15:58:02,493 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-11-18 15:58:02,494 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/dashboard', 'status_code': 200, 'timestamp': '2024-11-18T20:58:02.494316'}
+2024-11-18 15:58:02,498 - INFO - 127.0.0.1 - - [18/Nov/2024 15:58:02] "GET /dashboard HTTP/1.1" 200 -
+2024-11-18 15:58:12,646 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 15:58:12,652 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T20:58:12.652874'}
+2024-11-18 15:58:12,656 - INFO - 127.0.0.1 - - [18/Nov/2024 15:58:12] "GET /login1 HTTP/1.1" 200 -
+2024-11-18 15:58:12,997 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-11-18 15:58:13,002 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 200, 'timestamp': '2024-11-18T20:58:13.000118'}
+2024-11-18 15:58:13,006 - INFO - 127.0.0.1 - - [18/Nov/2024 15:58:13] "GET /login1 HTTP/1.1" 200 -
+2024-11-18 15:58:33,356 - INFO - Usuario encontrado: user. Intentando verificar contraseña.
+2024-11-18 15:58:34,002 - INFO - Inicio de sesión exitoso: user.
+2024-11-18 15:58:34,002 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 302
+2024-11-18 15:58:34,003 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/login1', 'status_code': 302, 'timestamp': '2024-11-18T20:58:34.003172'}
+2024-11-18 15:58:34,004 - INFO - 127.0.0.1 - - [18/Nov/2024 15:58:34] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-11-18 15:58:34,052 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-11-18 15:58:34,053 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/dashboard', 'status_code': 200, 'timestamp': '2024-11-18T20:58:34.052177'}
+2024-11-18 15:58:34,055 - INFO - 127.0.0.1 - - [18/Nov/2024 15:58:34] "GET /dashboard HTTP/1.1" 200 -
+2024-11-18 15:58:34,129 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-11-18 15:58:34,135 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/styles.css', 'status_code': 404, 'timestamp': '2024-11-18T20:58:34.135924'}
+2024-11-18 15:58:34,137 - INFO - 127.0.0.1 - - [18/Nov/2024 15:58:34] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-11-18 15:58:34,258 - INFO - User guest accessed http://127.0.0.1:5000/static/script.js with status 304
+2024-11-18 15:58:34,259 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/static/script.js', 'status_code': 304, 'timestamp': '2024-11-18T20:58:34.259848'}
+2024-11-18 15:58:34,261 - INFO - 127.0.0.1 - - [18/Nov/2024 15:58:34] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-11-18 15:58:34,335 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-11-18 15:58:34,335 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5000/dashboard', 'status_code': 200, 'timestamp': '2024-11-18T20:58:34.335078'}
+2024-11-18 15:58:34,337 - INFO - 127.0.0.1 - - [18/Nov/2024 15:58:34] "GET /dashboard HTTP/1.1" 200 -
+2024-11-20 17:42:35,566 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://172.23.197.150:5002
+2024-11-20 17:42:35,567 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-20 17:42:35,579 - INFO -  * Restarting with stat
+2024-11-20 17:42:39,355 - WARNING -  * Debugger is active!
+2024-11-20 17:42:39,368 - INFO -  * Debugger PIN: 496-851-570
+2024-11-20 17:43:07,769 - INFO - User guest accessed http://localhost:5002/ with status 200
+2024-11-20 17:43:07,782 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/', 'status_code': 200, 'timestamp': '2024-11-20T22:43:07.782330'}
+2024-11-20 17:43:07,793 - INFO - 127.0.0.1 - - [20/Nov/2024 17:43:07] "GET / HTTP/1.1" 200 -
+2024-11-20 17:43:09,101 - INFO - User guest accessed http://localhost:5002/favicon.ico with status 404
+2024-11-20 17:43:09,113 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/favicon.ico', 'status_code': 404, 'timestamp': '2024-11-20T22:43:09.113678'}
+2024-11-20 17:43:09,115 - INFO - 127.0.0.1 - - [20/Nov/2024 17:43:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-20 17:43:10,319 - INFO - User guest accessed http://localhost:5002/login1 with status 200
+2024-11-20 17:43:10,320 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/login1', 'status_code': 200, 'timestamp': '2024-11-20T22:43:10.320678'}
+2024-11-20 17:43:10,323 - INFO - 127.0.0.1 - - [20/Nov/2024 17:43:10] "GET /login1 HTTP/1.1" 200 -
+2024-11-20 17:43:16,292 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-11-20 17:43:17,155 - INFO - Inicio de sesión exitoso: admin.
+2024-11-20 17:43:17,157 - INFO - User guest accessed http://localhost:5002/login1 with status 302
+2024-11-20 17:43:17,158 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/login1', 'status_code': 302, 'timestamp': '2024-11-20T22:43:17.158449'}
+2024-11-20 17:43:17,161 - INFO - 127.0.0.1 - - [20/Nov/2024 17:43:17] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-11-20 17:43:17,214 - INFO - User guest accessed http://localhost:5002/dashboard with status 200
+2024-11-20 17:43:17,215 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/dashboard', 'status_code': 200, 'timestamp': '2024-11-20T22:43:17.215445'}
+2024-11-20 17:43:17,217 - INFO - 127.0.0.1 - - [20/Nov/2024 17:43:17] "GET /dashboard HTTP/1.1" 200 -
+2024-11-20 17:43:17,285 - INFO - User guest accessed http://localhost:5002/styles.css with status 404
+2024-11-20 17:43:17,289 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/styles.css', 'status_code': 404, 'timestamp': '2024-11-20T22:43:17.289447'}
+2024-11-20 17:43:17,290 - INFO - 127.0.0.1 - - [20/Nov/2024 17:43:17] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-11-20 17:43:17,806 - INFO - User guest accessed http://localhost:5002/static/script.js with status 200
+2024-11-20 17:43:17,809 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/static/script.js', 'status_code': 200, 'timestamp': '2024-11-20T22:43:17.809442'}
+2024-11-20 17:43:17,811 - INFO - 127.0.0.1 - - [20/Nov/2024 17:43:17] "GET /static/script.js HTTP/1.1" 200 -
+2024-11-20 17:44:08,611 - INFO - User guest accessed http://127.0.0.1:5002/users with status 200
+2024-11-20 17:44:08,612 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/users', 'status_code': 200, 'timestamp': '2024-11-20T22:44:08.612116'}
+2024-11-20 17:44:08,620 - INFO - 127.0.0.1 - - [20/Nov/2024 17:44:08] "GET /users HTTP/1.1" 200 -
+2024-11-20 17:44:11,191 - INFO - User guest accessed http://127.0.0.1:5002/users with status 200
+2024-11-20 17:44:11,192 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/users', 'status_code': 200, 'timestamp': '2024-11-20T22:44:11.192427'}
+2024-11-20 17:44:11,194 - INFO - 127.0.0.1 - - [20/Nov/2024 17:44:11] "GET /users HTTP/1.1" 200 -
+2024-11-20 17:44:11,947 - INFO - User guest accessed http://127.0.0.1:5002/users with status 200
+2024-11-20 17:44:11,949 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/users', 'status_code': 200, 'timestamp': '2024-11-20T22:44:11.949494'}
+2024-11-20 17:44:11,963 - INFO - 127.0.0.1 - - [20/Nov/2024 17:44:11] "GET /users HTTP/1.1" 200 -
+2024-11-20 17:44:12,676 - INFO - User guest accessed http://127.0.0.1:5002/users with status 200
+2024-11-20 17:44:12,677 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/users', 'status_code': 200, 'timestamp': '2024-11-20T22:44:12.677541'}
+2024-11-20 17:44:12,679 - INFO - 127.0.0.1 - - [20/Nov/2024 17:44:12] "GET /users HTTP/1.1" 200 -
+2024-11-20 17:44:13,308 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: get_all_users
+2024-11-20 17:44:13,309 - INFO - User guest accessed http://127.0.0.1:5002/users with status 429
+2024-11-20 17:44:13,310 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/users', 'status_code': 429, 'timestamp': '2024-11-20T22:44:13.310542'}
+2024-11-20 17:44:13,311 - INFO - 127.0.0.1 - - [20/Nov/2024 17:44:13] "[31m[1mGET /users HTTP/1.1[0m" 429 -
+2024-11-20 17:45:12,145 - INFO - User guest accessed http://127.0.0.1:5002/register with status 401
+2024-11-20 17:45:12,145 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/register', 'status_code': 401, 'timestamp': '2024-11-20T22:45:12.145377'}
+2024-11-20 17:45:12,148 - INFO - 127.0.0.1 - - [20/Nov/2024 17:45:12] "[31m[1mPOST /register HTTP/1.1[0m" 401 -
+2024-11-20 17:45:54,736 - WARNING - Intento de inicio de sesión fallido para: testuser.
+2024-11-20 17:45:54,738 - INFO - User guest accessed http://127.0.0.1:5002/login1 with status 200
+2024-11-20 17:45:54,739 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/login1', 'status_code': 200, 'timestamp': '2024-11-20T22:45:54.738623'}
+2024-11-20 17:45:54,740 - INFO - 127.0.0.1 - - [20/Nov/2024 17:45:54] "POST /login1 HTTP/1.1" 200 -
+2024-11-20 17:46:06,644 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-11-20 17:46:07,116 - INFO - Inicio de sesión exitoso: admin.
+2024-11-20 17:46:07,117 - INFO - User guest accessed http://127.0.0.1:5002/login1 with status 302
+2024-11-20 17:46:07,117 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/login1', 'status_code': 302, 'timestamp': '2024-11-20T22:46:07.117691'}
+2024-11-20 17:46:07,119 - INFO - 127.0.0.1 - - [20/Nov/2024 17:46:07] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-11-20 17:47:09,159 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: login
+2024-11-20 17:47:09,159 - INFO - User guest accessed http://127.0.0.1:5002/login1 with status 429
+2024-11-20 17:47:09,160 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/login1', 'status_code': 429, 'timestamp': '2024-11-20T22:47:09.160367'}
+2024-11-20 17:47:09,162 - INFO - 127.0.0.1 - - [20/Nov/2024 17:47:09] "[31m[1mPOST /login1 HTTP/1.1[0m" 429 -
+2024-11-20 17:47:22,512 - INFO - The CSRF token is missing.
+2024-11-20 17:47:22,625 - INFO - User guest accessed http://127.0.0.1:5002/login with status 200
+2024-11-20 17:47:22,626 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/login', 'status_code': 200, 'timestamp': '2024-11-20T22:47:22.626318'}
+2024-11-20 17:47:22,627 - INFO - 127.0.0.1 - - [20/Nov/2024 17:47:22] "POST /login HTTP/1.1" 200 -
+2024-11-20 17:48:35,410 - INFO - User guest accessed http://127.0.0.1:5002/login with status 200
+2024-11-20 17:48:35,411 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/login', 'status_code': 200, 'timestamp': '2024-11-20T22:48:35.411649'}
+2024-11-20 17:48:35,413 - INFO - 127.0.0.1 - - [20/Nov/2024 17:48:35] "GET /login HTTP/1.1" 200 -
+2024-11-20 17:48:36,817 - INFO - User guest accessed http://127.0.0.1:5002/login with status 200
+2024-11-20 17:48:36,818 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/login', 'status_code': 200, 'timestamp': '2024-11-20T22:48:36.818492'}
+2024-11-20 17:48:36,820 - INFO - 127.0.0.1 - - [20/Nov/2024 17:48:36] "GET /login HTTP/1.1" 200 -
+2024-11-20 17:48:37,472 - INFO - User guest accessed http://127.0.0.1:5002/login with status 200
+2024-11-20 17:48:37,472 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/login', 'status_code': 200, 'timestamp': '2024-11-20T22:48:37.472562'}
+2024-11-20 17:48:37,473 - INFO - 127.0.0.1 - - [20/Nov/2024 17:48:37] "GET /login HTTP/1.1" 200 -
+2024-11-20 17:49:00,863 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-11-20 17:49:01,077 - INFO -  * Restarting with stat
+2024-11-20 17:49:06,331 - WARNING -  * Debugger is active!
+2024-11-20 17:49:06,341 - INFO -  * Debugger PIN: 496-851-570
+2024-11-20 17:49:14,240 - WARNING - Intento de inicio de sesión fallido: Campos vacíos.
+2024-11-20 17:49:14,250 - INFO - User guest accessed http://127.0.0.1:5002/login1 with status 200
+2024-11-20 17:49:14,250 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/login1', 'status_code': 200, 'timestamp': '2024-11-20T22:49:14.250247'}
+2024-11-20 17:49:14,253 - INFO - 127.0.0.1 - - [20/Nov/2024 17:49:14] "POST /login1 HTTP/1.1" 200 -
+2024-11-20 17:49:44,889 - INFO - User guest accessed http://127.0.0.1:5002/register with status 401
+2024-11-20 17:49:44,889 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/register', 'status_code': 401, 'timestamp': '2024-11-20T22:49:44.889600'}
+2024-11-20 17:49:44,890 - INFO - 127.0.0.1 - - [20/Nov/2024 17:49:44] "[31m[1mPOST /register HTTP/1.1[0m" 401 -
+2024-11-20 17:51:22,945 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:22,950 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:24,731 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:24] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:24,996 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:25,040 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:25] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:26,490 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:26,491 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:26,550 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:26] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:26,555 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:26] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:26,760 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:26,790 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:26,790 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:26,837 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:26] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:26,882 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:26] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:26,895 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:26] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:26,934 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:26,941 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:26,993 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:26] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:26,997 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:26] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:27,064 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:27,106 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:27,214 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:27,238 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:27,276 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:27,311 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:27,386 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:27,388 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:27,476 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:27,494 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:27,531 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:27,533 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:27,634 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:27,639 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:27,775 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:27,776 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:51:27,848 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:51:27,866 - INFO - 127.0.0.1 - - [20/Nov/2024 17:51:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-11-20 17:53:46,802 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:53:46,802 - INFO - User guest accessed http://127.0.0.1:5002/register with status 429
+2024-11-20 17:53:46,803 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/register', 'status_code': 429, 'timestamp': '2024-11-20T22:53:46.803575'}
+2024-11-20 17:53:46,804 - INFO - 127.0.0.1 - - [20/Nov/2024 17:53:46] "[31m[1mPOST /register HTTP/1.1[0m" 429 -
+2024-11-20 17:54:08,517 - INFO - ratelimit 4 per 1 hour (127.0.0.1) exceeded at endpoint: register
+2024-11-20 17:54:08,517 - INFO - User guest accessed http://127.0.0.1:5002/register with status 429
+2024-11-20 17:54:08,518 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/register', 'status_code': 429, 'timestamp': '2024-11-20T22:54:08.518306'}
+2024-11-20 17:54:08,519 - INFO - 127.0.0.1 - - [20/Nov/2024 17:54:08] "[31m[1mPOST /register HTTP/1.1[0m" 429 -
+2024-11-20 18:01:16,610 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-11-20 18:01:17,009 - INFO -  * Restarting with stat
+2024-11-20 18:01:20,622 - WARNING -  * Debugger is active!
+2024-11-20 18:01:20,637 - INFO -  * Debugger PIN: 496-851-570
+2024-11-20 18:05:59,286 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://172.23.197.150:5002
+2024-11-20 18:05:59,287 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-20 18:05:59,294 - INFO -  * Restarting with stat
+2024-11-20 18:06:03,490 - WARNING -  * Debugger is active!
+2024-11-20 18:06:03,507 - INFO -  * Debugger PIN: 496-851-570
+2024-11-20 18:06:29,594 - INFO - User guest accessed http://127.0.0.1:5002/register with status 401
+2024-11-20 18:06:29,602 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://127.0.0.1:5002/register', 'status_code': 401, 'timestamp': '2024-11-20T23:06:29.602928'}
+2024-11-20 18:06:29,605 - INFO - 127.0.0.1 - - [20/Nov/2024 18:06:29] "[31m[1mPOST /register HTTP/1.1[0m" 401 -
+2024-11-20 18:07:20,009 - INFO - User guest accessed http://localhost:5002/register_page with status 401
+2024-11-20 18:07:20,010 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/register_page', 'status_code': 401, 'timestamp': '2024-11-20T23:07:20.010964'}
+2024-11-20 18:07:20,011 - INFO - 127.0.0.1 - - [20/Nov/2024 18:07:20] "[31m[1mGET /register_page HTTP/1.1[0m" 401 -
+2024-11-20 18:07:20,485 - INFO - User guest accessed http://localhost:5002/favicon.ico with status 404
+2024-11-20 18:07:20,489 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/favicon.ico', 'status_code': 404, 'timestamp': '2024-11-20T23:07:20.488490'}
+2024-11-20 18:07:20,493 - INFO - 127.0.0.1 - - [20/Nov/2024 18:07:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-20 18:07:30,780 - INFO - User guest accessed http://localhost:5002/login with status 200
+2024-11-20 18:07:30,780 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/login', 'status_code': 200, 'timestamp': '2024-11-20T23:07:30.780260'}
+2024-11-20 18:07:30,785 - INFO - 127.0.0.1 - - [20/Nov/2024 18:07:30] "GET /login HTTP/1.1" 200 -
+2024-11-20 18:07:41,360 - INFO - User guest accessed http://localhost:5002/login with status 200
+2024-11-20 18:07:41,361 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/login', 'status_code': 200, 'timestamp': '2024-11-20T23:07:41.361658'}
+2024-11-20 18:07:41,362 - INFO - 127.0.0.1 - - [20/Nov/2024 18:07:41] "POST /login HTTP/1.1" 200 -
+2024-11-20 18:07:44,232 - INFO - User guest accessed http://localhost:5002/login1 with status 200
+2024-11-20 18:07:44,240 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/login1', 'status_code': 200, 'timestamp': '2024-11-20T23:07:44.240725'}
+2024-11-20 18:07:44,241 - INFO - 127.0.0.1 - - [20/Nov/2024 18:07:44] "GET /login1 HTTP/1.1" 200 -
+2024-11-20 18:07:51,142 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-11-20 18:07:52,618 - INFO - Inicio de sesión exitoso: admin.
+2024-11-20 18:07:52,620 - INFO - User guest accessed http://localhost:5002/login1 with status 302
+2024-11-20 18:07:52,621 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/login1', 'status_code': 302, 'timestamp': '2024-11-20T23:07:52.621335'}
+2024-11-20 18:07:52,624 - INFO - 127.0.0.1 - - [20/Nov/2024 18:07:52] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-11-20 18:07:52,689 - INFO - User guest accessed http://localhost:5002/dashboard with status 200
+2024-11-20 18:07:52,690 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/dashboard', 'status_code': 200, 'timestamp': '2024-11-20T23:07:52.690332'}
+2024-11-20 18:07:52,692 - INFO - 127.0.0.1 - - [20/Nov/2024 18:07:52] "GET /dashboard HTTP/1.1" 200 -
+2024-11-20 18:07:52,876 - INFO - User guest accessed http://localhost:5002/styles.css with status 404
+2024-11-20 18:07:52,877 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/styles.css', 'status_code': 404, 'timestamp': '2024-11-20T23:07:52.877332'}
+2024-11-20 18:07:52,878 - INFO - 127.0.0.1 - - [20/Nov/2024 18:07:52] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-11-20 18:07:53,472 - INFO - User guest accessed http://localhost:5002/static/script.js with status 200
+2024-11-20 18:07:53,495 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/static/script.js', 'status_code': 200, 'timestamp': '2024-11-20T23:07:53.495333'}
+2024-11-20 18:07:53,511 - INFO - 127.0.0.1 - - [20/Nov/2024 18:07:53] "GET /static/script.js HTTP/1.1" 200 -
+2024-11-20 18:07:59,408 - INFO - User guest accessed http://localhost:5002/register_page with status 401
+2024-11-20 18:07:59,410 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/register_page', 'status_code': 401, 'timestamp': '2024-11-20T23:07:59.410361'}
+2024-11-20 18:07:59,411 - INFO - 127.0.0.1 - - [20/Nov/2024 18:07:59] "[31m[1mGET /register_page HTTP/1.1[0m" 401 -
+2024-11-20 18:08:08,965 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-11-20 18:08:09,571 - INFO -  * Restarting with stat
+2024-11-20 18:08:13,910 - WARNING -  * Debugger is active!
+2024-11-20 18:08:13,922 - INFO -  * Debugger PIN: 496-851-570
+2024-11-20 18:08:14,325 - INFO - User guest accessed http://localhost:5002/register_page with status 200
+2024-11-20 18:08:14,326 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/register_page', 'status_code': 200, 'timestamp': '2024-11-20T23:08:14.326864'}
+2024-11-20 18:08:14,329 - INFO - 127.0.0.1 - - [20/Nov/2024 18:08:14] "GET /register_page HTTP/1.1" 200 -
+2024-11-20 18:13:15,936 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://172.23.197.150:5002
+2024-11-20 18:13:15,937 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-20 18:13:15,942 - INFO -  * Restarting with stat
+2024-11-20 18:13:20,797 - WARNING -  * Debugger is active!
+2024-11-20 18:13:20,809 - INFO -  * Debugger PIN: 496-851-570
+2024-11-20 18:14:54,877 - INFO - User guest accessed http://localhost:5002/login1 with status 200
+2024-11-20 18:14:54,878 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/login1', 'status_code': 200, 'timestamp': '2024-11-20T23:14:54.878287'}
+2024-11-20 18:14:54,879 - INFO - 127.0.0.1 - - [20/Nov/2024 18:14:54] "GET /login1 HTTP/1.1" 200 -
+2024-11-20 18:15:04,188 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-11-20 18:15:04,938 - WARNING - Intento de inicio de sesión fallido para: admin.
+2024-11-20 18:15:04,939 - INFO - User guest accessed http://localhost:5002/login1 with status 200
+2024-11-20 18:15:04,940 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/login1', 'status_code': 200, 'timestamp': '2024-11-20T23:15:04.940315'}
+2024-11-20 18:15:04,942 - INFO - 127.0.0.1 - - [20/Nov/2024 18:15:04] "POST /login1 HTTP/1.1" 200 -
+2024-11-20 18:15:09,833 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-11-20 18:15:10,890 - INFO - Inicio de sesión exitoso: admin.
+2024-11-20 18:15:10,891 - INFO - User guest accessed http://localhost:5002/login1 with status 302
+2024-11-20 18:15:10,891 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/login1', 'status_code': 302, 'timestamp': '2024-11-20T23:15:10.891675'}
+2024-11-20 18:15:10,894 - INFO - 127.0.0.1 - - [20/Nov/2024 18:15:10] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-11-20 18:15:10,983 - INFO - User guest accessed http://localhost:5002/dashboard with status 200
+2024-11-20 18:15:10,984 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/dashboard', 'status_code': 200, 'timestamp': '2024-11-20T23:15:10.984676'}
+2024-11-20 18:15:10,986 - INFO - 127.0.0.1 - - [20/Nov/2024 18:15:10] "GET /dashboard HTTP/1.1" 200 -
+2024-11-20 18:15:11,462 - INFO - User guest accessed http://localhost:5002/styles.css with status 404
+2024-11-20 18:15:11,469 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/styles.css', 'status_code': 404, 'timestamp': '2024-11-20T23:15:11.469676'}
+2024-11-20 18:15:11,472 - INFO - 127.0.0.1 - - [20/Nov/2024 18:15:11] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-11-20 18:15:11,662 - INFO - User guest accessed http://localhost:5002/static/script.js with status 304
+2024-11-20 18:15:11,665 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/static/script.js', 'status_code': 304, 'timestamp': '2024-11-20T23:15:11.665677'}
+2024-11-20 18:15:11,667 - INFO - 127.0.0.1 - - [20/Nov/2024 18:15:11] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-11-20 18:15:21,019 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-11-20 18:15:21,813 - WARNING - Intento de inicio de sesión fallido para: admin.
+2024-11-20 18:15:21,819 - INFO - User guest accessed http://localhost:5002/login1 with status 200
+2024-11-20 18:15:21,820 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/login1', 'status_code': 200, 'timestamp': '2024-11-20T23:15:21.820902'}
+2024-11-20 18:15:21,824 - INFO - 127.0.0.1 - - [20/Nov/2024 18:15:21] "POST /login1 HTTP/1.1" 200 -
+2024-11-20 18:15:31,008 - INFO - Usuario encontrado: user. Intentando verificar contraseña.
+2024-11-20 18:15:31,750 - INFO - Inicio de sesión exitoso: user.
+2024-11-20 18:15:31,752 - INFO - User guest accessed http://localhost:5002/login1 with status 302
+2024-11-20 18:15:31,754 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/login1', 'status_code': 302, 'timestamp': '2024-11-20T23:15:31.754493'}
+2024-11-20 18:15:31,757 - INFO - 127.0.0.1 - - [20/Nov/2024 18:15:31] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-11-20 18:15:31,793 - INFO - User guest accessed http://localhost:5002/dashboard with status 200
+2024-11-20 18:15:31,793 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/dashboard', 'status_code': 200, 'timestamp': '2024-11-20T23:15:31.793493'}
+2024-11-20 18:15:31,795 - INFO - 127.0.0.1 - - [20/Nov/2024 18:15:31] "GET /dashboard HTTP/1.1" 200 -
+2024-11-20 18:15:31,915 - INFO - User guest accessed http://localhost:5002/styles.css with status 404
+2024-11-20 18:15:31,918 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/styles.css', 'status_code': 404, 'timestamp': '2024-11-20T23:15:31.917493'}
+2024-11-20 18:15:31,920 - INFO - 127.0.0.1 - - [20/Nov/2024 18:15:31] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-11-20 18:15:32,244 - INFO - User guest accessed http://localhost:5002/static/script.js with status 304
+2024-11-20 18:15:32,245 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/static/script.js', 'status_code': 304, 'timestamp': '2024-11-20T23:15:32.245248'}
+2024-11-20 18:15:32,250 - INFO - 127.0.0.1 - - [20/Nov/2024 18:15:32] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-11-20 18:21:24,763 - INFO - User guest accessed http://localhost:5002/login1 with status 200
+2024-11-20 18:21:24,764 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/login1', 'status_code': 200, 'timestamp': '2024-11-20T23:21:24.764188'}
+2024-11-20 18:21:24,765 - INFO - 127.0.0.1 - - [20/Nov/2024 18:21:24] "GET /login1 HTTP/1.1" 200 -
+2024-11-27 13:44:40,673 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.0.5:5002
+2024-11-27 13:44:40,674 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-27 13:44:40,697 - INFO -  * Restarting with stat
+2024-11-27 13:44:44,695 - WARNING -  * Debugger is active!
+2024-11-27 13:44:44,704 - INFO -  * Debugger PIN: 496-851-570
+2024-11-27 13:45:01,809 - INFO - User guest accessed http://localhost:5002/ with status 200
+2024-11-27 13:45:01,812 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/', 'status_code': 200, 'timestamp': '2024-11-27T18:45:01.812003'}
+2024-11-27 13:45:01,813 - INFO - 127.0.0.1 - - [27/Nov/2024 13:45:01] "GET / HTTP/1.1" 200 -
+2024-11-27 13:45:02,048 - INFO - User guest accessed http://localhost:5002/favicon.ico with status 404
+2024-11-27 13:45:02,054 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/favicon.ico', 'status_code': 404, 'timestamp': '2024-11-27T18:45:02.054769'}
+2024-11-27 13:45:02,057 - INFO - 127.0.0.1 - - [27/Nov/2024 13:45:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-27 13:45:04,073 - INFO - User guest accessed http://localhost:5002/login1 with status 200
+2024-11-27 13:45:04,074 - INFO - Audit Log: {'user_id': 'guest', 'action': 'http://localhost:5002/login1', 'status_code': 200, 'timestamp': '2024-11-27T18:45:04.074050'}
+2024-11-27 13:45:04,077 - INFO - 127.0.0.1 - - [27/Nov/2024 13:45:04] "GET /login1 HTTP/1.1" 200 -

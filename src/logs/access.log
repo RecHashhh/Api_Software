@@ -1,0 +1,322 @@
+2024-10-09 16:16:44,023 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.23.196.8:5000
+2024-10-09 16:16:44,025 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-09 16:16:44,036 - INFO -  * Restarting with stat
+2024-10-09 16:16:46,005 - WARNING -  * Debugger is active!
+2024-10-09 16:16:46,022 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 16:17:10,074 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 16:17:10,636 - INFO -  * Restarting with stat
+2024-10-09 16:17:14,262 - WARNING -  * Debugger is active!
+2024-10-09 16:17:14,270 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 16:17:48,328 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:17:48,329 - INFO - 127.0.0.1 - - [09/Oct/2024 16:17:48] "POST /login HTTP/1.1" 200 -
+2024-10-09 16:17:54,793 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:17:54,793 - INFO - 127.0.0.1 - - [09/Oct/2024 16:17:54] "POST /login HTTP/1.1" 200 -
+2024-10-09 16:18:48,047 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:18:48,049 - INFO - 127.0.0.1 - - [09/Oct/2024 16:18:48] "POST /login HTTP/1.1" 200 -
+2024-10-09 16:21:00,133 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 16:21:00,483 - INFO -  * Restarting with stat
+2024-10-09 16:21:06,236 - WARNING -  * Debugger is active!
+2024-10-09 16:21:06,255 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 16:24:12,931 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 16:24:13,220 - INFO -  * Restarting with stat
+2024-10-09 16:24:16,719 - WARNING -  * Debugger is active!
+2024-10-09 16:24:16,735 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 16:24:25,286 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:24:25,287 - INFO - 127.0.0.1 - - [09/Oct/2024 16:24:25] "GET /login HTTP/1.1" 200 -
+2024-10-09 16:24:50,435 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:24:50,436 - INFO - 127.0.0.1 - - [09/Oct/2024 16:24:50] "GET /login HTTP/1.1" 200 -
+2024-10-09 16:24:51,765 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:24:51,767 - INFO - 127.0.0.1 - - [09/Oct/2024 16:24:51] "GET /login HTTP/1.1" 200 -
+2024-10-09 16:24:52,141 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:24:52,142 - INFO - 127.0.0.1 - - [09/Oct/2024 16:24:52] "GET /login HTTP/1.1" 200 -
+2024-10-09 16:24:59,103 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 16:24:59,422 - INFO -  * Restarting with stat
+2024-10-09 16:25:07,148 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.23.196.8:5000
+2024-10-09 16:25:07,149 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-09 16:25:07,151 - INFO -  * Restarting with stat
+2024-10-09 16:25:09,367 - WARNING -  * Debugger is active!
+2024-10-09 16:25:09,382 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 16:25:39,282 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-10-09 16:25:39,283 - INFO - 127.0.0.1 - - [09/Oct/2024 16:25:39] "GET / HTTP/1.1" 200 -
+2024-10-09 16:25:39,541 - INFO - User guest accessed http://127.0.0.1:5000/favicon.ico with status 404
+2024-10-09 16:25:39,542 - INFO - 127.0.0.1 - - [09/Oct/2024 16:25:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-09 16:25:42,196 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:25:42,198 - INFO - 127.0.0.1 - - [09/Oct/2024 16:25:42] "GET /login HTTP/1.1" 200 -
+2024-10-09 16:27:08,867 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.23.196.8:5000
+2024-10-09 16:27:08,867 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-09 16:27:08,870 - INFO -  * Restarting with stat
+2024-10-09 16:27:10,622 - WARNING -  * Debugger is active!
+2024-10-09 16:27:10,633 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 16:27:20,802 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:27:20,803 - INFO - 127.0.0.1 - - [09/Oct/2024 16:27:20] "GET /login HTTP/1.1" 200 -
+2024-10-09 16:27:21,572 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:27:21,574 - INFO - 127.0.0.1 - - [09/Oct/2024 16:27:21] "GET /login HTTP/1.1" 200 -
+2024-10-09 16:27:22,139 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:27:22,141 - INFO - 127.0.0.1 - - [09/Oct/2024 16:27:22] "GET /login HTTP/1.1" 200 -
+2024-10-09 16:27:22,319 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:27:22,320 - INFO - 127.0.0.1 - - [09/Oct/2024 16:27:22] "GET /login HTTP/1.1" 200 -
+2024-10-09 16:27:22,484 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:27:22,486 - INFO - 127.0.0.1 - - [09/Oct/2024 16:27:22] "GET /login HTTP/1.1" 200 -
+2024-10-09 16:27:22,707 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:27:22,709 - INFO - 127.0.0.1 - - [09/Oct/2024 16:27:22] "GET /login HTTP/1.1" 200 -
+2024-10-09 16:27:22,811 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:27:22,812 - INFO - 127.0.0.1 - - [09/Oct/2024 16:27:22] "GET /login HTTP/1.1" 200 -
+2024-10-09 16:28:08,412 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 16:28:08,602 - INFO -  * Restarting with stat
+2024-10-09 16:28:12,054 - WARNING -  * Debugger is active!
+2024-10-09 16:28:12,065 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 16:28:18,721 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 16:28:18,722 - INFO - 127.0.0.1 - - [09/Oct/2024 16:28:18] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 16:28:48,531 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-10-09 16:28:49,069 - INFO - Inicio de sesión exitoso: admin.
+2024-10-09 16:28:49,070 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 16:28:49,072 - INFO - 127.0.0.1 - - [09/Oct/2024 16:28:49] "POST /login1 HTTP/1.1" 200 -
+2024-10-09 16:30:50,278 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 16:30:50,279 - INFO - 127.0.0.1 - - [09/Oct/2024 16:30:50] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 16:30:50,859 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 16:30:51,099 - INFO -  * Restarting with stat
+2024-10-09 16:30:54,682 - WARNING -  * Debugger is active!
+2024-10-09 16:30:54,693 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 16:31:01,362 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-10-09 16:31:02,353 - INFO - 127.0.0.1 - - [09/Oct/2024 16:31:02] "[35m[1mPOST /login1 HTTP/1.1[0m" 500 -
+2024-10-09 16:31:02,874 - INFO - 127.0.0.1 - - [09/Oct/2024 16:31:02] "GET /login1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-10-09 16:31:02,884 - INFO - 127.0.0.1 - - [09/Oct/2024 16:31:02] "GET /login1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-10-09 16:31:03,120 - INFO - 127.0.0.1 - - [09/Oct/2024 16:31:03] "GET /login1?__debugger__=yes&cmd=resource&f=console.png&s=XoiRzCJveoZtN5AXFQE7 HTTP/1.1" 200 -
+2024-10-09 16:31:03,156 - INFO - 127.0.0.1 - - [09/Oct/2024 16:31:03] "GET /login1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-10-09 16:33:31,603 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 16:33:32,553 - INFO -  * Restarting with stat
+2024-10-09 16:33:36,490 - WARNING -  * Debugger is active!
+2024-10-09 16:33:36,503 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 16:33:49,217 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-10-09 16:33:50,020 - INFO - Inicio de sesión exitoso: admin.
+2024-10-09 16:33:50,021 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 302
+2024-10-09 16:33:50,023 - INFO - 127.0.0.1 - - [09/Oct/2024 16:33:50] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-10-09 16:33:50,089 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 16:33:50,090 - INFO - 127.0.0.1 - - [09/Oct/2024 16:33:50] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 16:34:04,535 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 16:34:04,535 - INFO - 127.0.0.1 - - [09/Oct/2024 16:34:04] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 16:34:14,957 - INFO - Usuario encontrado: user. Intentando verificar contraseña.
+2024-10-09 16:34:15,540 - INFO - Inicio de sesión exitoso: user.
+2024-10-09 16:34:15,541 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 302
+2024-10-09 16:34:15,542 - INFO - 127.0.0.1 - - [09/Oct/2024 16:34:15] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-10-09 16:34:15,569 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 16:34:15,570 - INFO - 127.0.0.1 - - [09/Oct/2024 16:34:15] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 16:35:03,029 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 16:35:03,029 - INFO - 127.0.0.1 - - [09/Oct/2024 16:35:03] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 16:38:36,673 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 16:38:37,005 - INFO -  * Restarting with stat
+2024-10-09 16:39:51,358 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.23.196.8:5000
+2024-10-09 16:39:51,359 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-09 16:39:51,363 - INFO -  * Restarting with stat
+2024-10-09 16:39:54,201 - WARNING -  * Debugger is active!
+2024-10-09 16:39:54,216 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 16:40:02,213 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-10-09 16:40:02,214 - INFO - 127.0.0.1 - - [09/Oct/2024 16:40:02] "GET / HTTP/1.1" 200 -
+2024-10-09 16:41:28,646 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 16:41:28,864 - INFO -  * Restarting with stat
+2024-10-09 16:41:32,540 - WARNING -  * Debugger is active!
+2024-10-09 16:41:32,554 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 16:41:38,566 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-10-09 16:41:38,566 - INFO - 127.0.0.1 - - [09/Oct/2024 16:41:38] "GET / HTTP/1.1" 200 -
+2024-10-09 16:42:20,784 - INFO - 127.0.0.1 - - [09/Oct/2024 16:42:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-09 16:42:21,314 - INFO - 127.0.0.1 - - [09/Oct/2024 16:42:21] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-09 16:42:21,338 - INFO - 127.0.0.1 - - [09/Oct/2024 16:42:21] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-09 16:42:21,466 - INFO - 127.0.0.1 - - [09/Oct/2024 16:42:21] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=4Nhewc4Mpa1156OjHs3h HTTP/1.1" 200 -
+2024-10-09 16:42:21,546 - INFO - 127.0.0.1 - - [09/Oct/2024 16:42:21] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-09 16:42:43,558 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:42:43,559 - INFO - 127.0.0.1 - - [09/Oct/2024 16:42:43] "GET /login HTTP/1.1" 200 -
+2024-10-09 16:42:46,388 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 16:42:46,389 - INFO - 127.0.0.1 - - [09/Oct/2024 16:42:46] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 16:44:21,137 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-10-09 16:44:21,753 - INFO - Inicio de sesión exitoso: admin.
+2024-10-09 16:44:21,754 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 302
+2024-10-09 16:44:21,755 - INFO - 127.0.0.1 - - [09/Oct/2024 16:44:21] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-10-09 16:44:21,774 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 16:44:21,775 - INFO - 127.0.0.1 - - [09/Oct/2024 16:44:21] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 16:44:21,826 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 16:44:21,826 - INFO - 127.0.0.1 - - [09/Oct/2024 16:44:21] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 16:44:31,553 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 16:44:31,555 - INFO - 127.0.0.1 - - [09/Oct/2024 16:44:31] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 16:44:31,798 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:44:31,801 - INFO - 127.0.0.1 - - [09/Oct/2024 16:44:31] "GET /login HTTP/1.1" 200 -
+2024-10-09 16:44:33,299 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 16:44:33,299 - INFO - 127.0.0.1 - - [09/Oct/2024 16:44:33] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 16:44:33,332 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 16:44:33,333 - INFO - 127.0.0.1 - - [09/Oct/2024 16:44:33] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 16:44:34,679 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 16:44:34,679 - INFO - 127.0.0.1 - - [09/Oct/2024 16:44:34] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 16:44:35,458 - INFO - User guest accessed http://127.0.0.1:5000/login with status 200
+2024-10-09 16:44:35,460 - INFO - 127.0.0.1 - - [09/Oct/2024 16:44:35] "GET /login HTTP/1.1" 200 -
+2024-10-09 16:44:37,128 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-10-09 16:44:37,129 - INFO - 127.0.0.1 - - [09/Oct/2024 16:44:37] "GET / HTTP/1.1" 200 -
+2024-10-09 16:45:11,599 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:11] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-09 16:45:11,684 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-09 16:45:11,687 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:11] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-09 16:45:11,759 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=4Nhewc4Mpa1156OjHs3h HTTP/1.1[0m" 304 -
+2024-10-09 16:45:11,791 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-09 16:45:13,476 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:13] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-09 16:45:13,535 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:13] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-09 16:45:13,541 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:13] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-09 16:45:13,573 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:13] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=4Nhewc4Mpa1156OjHs3h HTTP/1.1[0m" 304 -
+2024-10-09 16:45:13,606 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:13] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-09 16:45:27,047 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-10-09 16:45:27,048 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:27] "GET / HTTP/1.1" 200 -
+2024-10-09 16:45:28,167 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 16:45:28,169 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:28] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 16:45:33,813 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 16:45:33,814 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:33] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 16:45:40,980 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-10-09 16:45:41,582 - INFO - Inicio de sesión exitoso: admin.
+2024-10-09 16:45:41,583 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 302
+2024-10-09 16:45:41,584 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:41] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-10-09 16:45:41,596 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 16:45:41,597 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:41] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 16:45:41,628 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 16:45:41,628 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:41] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 16:45:42,649 - INFO - User guest accessed http://127.0.0.1:5000/register_page with status 401
+2024-10-09 16:45:42,649 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:42] "[31m[1mGET /register_page HTTP/1.1[0m" 401 -
+2024-10-09 16:45:45,668 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 16:45:45,669 - INFO - 127.0.0.1 - - [09/Oct/2024 16:45:45] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 16:47:23,565 - INFO - User guest accessed http://127.0.0.1:5000/register_page with status 401
+2024-10-09 16:47:23,567 - INFO - 127.0.0.1 - - [09/Oct/2024 16:47:23] "[31m[1mGET /register_page HTTP/1.1[0m" 401 -
+2024-10-09 16:48:00,825 - INFO - User guest accessed http://127.0.0.1:5000/register with status 405
+2024-10-09 16:48:00,825 - INFO - 127.0.0.1 - - [09/Oct/2024 16:48:00] "[31m[1mGET /register HTTP/1.1[0m" 405 -
+2024-10-09 16:51:31,730 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 16:51:31,933 - INFO -  * Restarting with stat
+2024-10-09 16:52:06,965 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.23.196.8:5000
+2024-10-09 16:52:06,965 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-09 16:52:06,969 - INFO -  * Restarting with stat
+2024-10-09 16:52:09,880 - WARNING -  * Debugger is active!
+2024-10-09 16:52:09,893 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 16:52:16,272 - INFO - User guest accessed http://127.0.0.1:5000/register with status 405
+2024-10-09 16:52:16,273 - INFO - 127.0.0.1 - - [09/Oct/2024 16:52:16] "[31m[1mGET /register HTTP/1.1[0m" 405 -
+2024-10-09 16:52:16,276 - INFO - User guest accessed http://127.0.0.1:5000/register with status 405
+2024-10-09 16:52:16,277 - INFO - 127.0.0.1 - - [09/Oct/2024 16:52:16] "[31m[1mGET /register HTTP/1.1[0m" 405 -
+2024-10-09 16:52:18,454 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 16:52:18,461 - INFO - 127.0.0.1 - - [09/Oct/2024 16:52:18] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 16:52:19,061 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-10-09 16:52:19,064 - INFO - 127.0.0.1 - - [09/Oct/2024 16:52:19] "GET / HTTP/1.1" 200 -
+2024-10-09 16:52:23,179 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-10-09 16:52:23,180 - INFO - 127.0.0.1 - - [09/Oct/2024 16:52:23] "GET / HTTP/1.1" 200 -
+2024-10-09 16:52:24,787 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 16:52:24,788 - INFO - 127.0.0.1 - - [09/Oct/2024 16:52:24] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 16:52:28,746 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-10-09 16:52:29,652 - INFO - Inicio de sesión exitoso: admin.
+2024-10-09 16:52:29,653 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 302
+2024-10-09 16:52:29,654 - INFO - 127.0.0.1 - - [09/Oct/2024 16:52:29] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-10-09 16:52:29,682 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 16:52:29,682 - INFO - 127.0.0.1 - - [09/Oct/2024 16:52:29] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 16:52:29,722 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 16:52:29,723 - INFO - 127.0.0.1 - - [09/Oct/2024 16:52:29] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 16:52:30,839 - INFO - User guest accessed http://127.0.0.1:5000/register_page with status 401
+2024-10-09 16:52:30,840 - INFO - 127.0.0.1 - - [09/Oct/2024 16:52:30] "[31m[1mGET /register_page HTTP/1.1[0m" 401 -
+2024-10-09 16:55:38,998 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 16:55:39,219 - INFO -  * Restarting with stat
+2024-10-09 16:55:42,115 - WARNING -  * Debugger is active!
+2024-10-09 16:55:42,125 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 16:55:54,500 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 16:55:54,501 - INFO - 127.0.0.1 - - [09/Oct/2024 16:55:54] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 16:55:55,345 - INFO - User guest accessed http://127.0.0.1:5000/ with status 200
+2024-10-09 16:55:55,347 - INFO - 127.0.0.1 - - [09/Oct/2024 16:55:55] "GET / HTTP/1.1" 200 -
+2024-10-09 16:55:56,562 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 16:55:56,564 - INFO - 127.0.0.1 - - [09/Oct/2024 16:55:56] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 16:56:06,364 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-10-09 16:56:07,289 - INFO - Inicio de sesión exitoso: admin.
+2024-10-09 16:56:07,290 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 302
+2024-10-09 16:56:07,291 - INFO - 127.0.0.1 - - [09/Oct/2024 16:56:07] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-10-09 16:56:07,320 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 16:56:07,321 - INFO - 127.0.0.1 - - [09/Oct/2024 16:56:07] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 16:56:07,370 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 16:56:07,371 - INFO - 127.0.0.1 - - [09/Oct/2024 16:56:07] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 16:56:09,105 - INFO - User guest accessed http://127.0.0.1:5000/register_page with status 401
+2024-10-09 16:56:09,105 - INFO - 127.0.0.1 - - [09/Oct/2024 16:56:09] "[31m[1mGET /register_page HTTP/1.1[0m" 401 -
+2024-10-09 16:56:13,567 - INFO - User guest accessed http://127.0.0.1:5000/register_page with status 401
+2024-10-09 16:56:13,568 - INFO - 127.0.0.1 - - [09/Oct/2024 16:56:13] "[31m[1mGET /register_page HTTP/1.1[0m" 401 -
+2024-10-09 16:57:35,752 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 16:57:35,753 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:35] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 16:57:35,795 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 16:57:35,796 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:35] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 16:57:36,047 - INFO - User guest accessed http://127.0.0.1:5000/static/script.js with status 200
+2024-10-09 16:57:36,047 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:36] "GET /static/script.js HTTP/1.1" 200 -
+2024-10-09 16:57:36,853 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 16:57:36,855 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:36] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 16:57:36,890 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 16:57:36,891 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:36] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 16:57:36,913 - INFO - User guest accessed http://127.0.0.1:5000/static/script.js with status 304
+2024-10-09 16:57:36,914 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:36] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-09 16:57:37,663 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 200
+2024-10-09 16:57:37,664 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:37] "GET /login1 HTTP/1.1" 200 -
+2024-10-09 16:57:40,909 - INFO - Usuario encontrado: admin. Intentando verificar contraseña.
+2024-10-09 16:57:41,474 - INFO - Inicio de sesión exitoso: admin.
+2024-10-09 16:57:41,475 - INFO - User guest accessed http://127.0.0.1:5000/login1 with status 302
+2024-10-09 16:57:41,476 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:41] "[32mPOST /login1 HTTP/1.1[0m" 302 -
+2024-10-09 16:57:41,491 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 16:57:41,492 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:41] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 16:57:41,546 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 16:57:41,547 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:41] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 16:57:41,551 - INFO - User guest accessed http://127.0.0.1:5000/static/script.js with status 304
+2024-10-09 16:57:41,552 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:41] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-09 16:57:55,156 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:55] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 16:57:55,159 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:55] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 16:57:56,049 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:56] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 16:57:56,056 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:56] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 16:57:56,238 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:56] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 16:57:56,240 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:56] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 16:57:56,522 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:56] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 16:57:56,569 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:56] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 16:57:56,609 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:56] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 16:57:56,623 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:56] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 16:57:57,095 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:57] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 16:57:57,114 - INFO - 127.0.0.1 - - [09/Oct/2024 16:57:57] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 16:59:32,777 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 16:59:33,090 - INFO -  * Restarting with stat
+2024-10-09 16:59:36,152 - WARNING -  * Debugger is active!
+2024-10-09 16:59:36,162 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 17:00:22,163 - INFO - 127.0.0.1 - - [09/Oct/2024 17:00:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 17:00:22,167 - INFO - 127.0.0.1 - - [09/Oct/2024 17:00:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 17:00:22,524 - INFO - 127.0.0.1 - - [09/Oct/2024 17:00:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 17:00:22,535 - INFO - 127.0.0.1 - - [09/Oct/2024 17:00:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 17:00:22,670 - INFO - 127.0.0.1 - - [09/Oct/2024 17:00:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 17:00:22,682 - INFO - 127.0.0.1 - - [09/Oct/2024 17:00:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 17:00:22,829 - INFO - 127.0.0.1 - - [09/Oct/2024 17:00:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 17:00:22,845 - INFO - 127.0.0.1 - - [09/Oct/2024 17:00:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 17:00:23,293 - INFO - User guest accessed http://127.0.0.1:5000/dashboard with status 200
+2024-10-09 17:00:23,294 - INFO - 127.0.0.1 - - [09/Oct/2024 17:00:23] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 17:00:23,330 - INFO - User guest accessed http://127.0.0.1:5000/styles.css with status 404
+2024-10-09 17:00:23,331 - INFO - 127.0.0.1 - - [09/Oct/2024 17:00:23] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-09 17:00:23,552 - INFO - User guest accessed http://127.0.0.1:5000/static/script.js with status 200
+2024-10-09 17:00:23,553 - INFO - 127.0.0.1 - - [09/Oct/2024 17:00:23] "GET /static/script.js HTTP/1.1" 200 -
+2024-10-09 17:00:34,714 - INFO - 127.0.0.1 - - [09/Oct/2024 17:00:34] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 17:00:34,722 - INFO - 127.0.0.1 - - [09/Oct/2024 17:00:34] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-10-09 17:03:54,698 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 17:03:54,962 - INFO -  * Restarting with stat
+2024-10-09 17:03:57,130 - WARNING -  * Debugger is active!
+2024-10-09 17:03:57,142 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 17:04:10,500 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 17:04:10,696 - INFO -  * Restarting with stat
+2024-10-09 17:04:13,526 - WARNING -  * Debugger is active!
+2024-10-09 17:04:13,538 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 17:04:23,163 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 17:04:23,374 - INFO -  * Restarting with stat
+2024-10-09 17:04:26,260 - WARNING -  * Debugger is active!
+2024-10-09 17:04:26,269 - INFO -  * Debugger PIN: 133-375-859
+2024-10-09 17:07:11,463 - INFO -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\Secure-APP\\app.py', reloading
+2024-10-09 17:07:11,696 - INFO -  * Restarting with stat
+2024-10-09 17:14:24,011 - INFO -  * Restarting with stat
+2024-10-09 17:23:32,770 - INFO -  * Restarting with stat
+2024-10-09 17:23:47,298 - INFO -  * Restarting with stat
