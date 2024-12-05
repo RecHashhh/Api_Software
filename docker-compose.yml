@@ -8,9 +8,9 @@ services:
       - "7000:5002"  # Mapea el puerto 7000 en tu máquina al puerto 5002 en el contenedor
     environment:
       - SECRET_KEY=supersecretkey
-      - DATABASE_URL=sqlite:///instace/rbacSec.db  # Ruta de la base de datos dentro del contenedor
+      - DATABASE_URL=sqlite:///rbacSec.db  # Ruta corregida
       - JWT_SECRET_KEY=supersecretjwtkey
     volumes:
       - ./src:/app/src  # Mapea el directorio local 'src' al directorio '/app/src' en el contenedor
-      - ./src/instace:/app/src/instace # Mapea
+      - ./src/instance:/app/src/instance  # Corrige typo en 'instace'
     restart: always  # Asegura que el contenedor se reinicie si falla
